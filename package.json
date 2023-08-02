@@ -1,7 +1,7 @@
 {
   "name": "react-face-recognition",
   "version": "0.1.0",
-  "homepage": "http://long1308.github.io/build",
+  "homepage": "http://long1308.github.io/build_deploy",
   "private": true,
   "dependencies": {
     "face-api.js": "^0.17.0",
